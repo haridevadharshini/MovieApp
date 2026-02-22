@@ -1,34 +1,39 @@
 # MovieApp 🎬
 
-A lightweight Java movie application to explore films and build your movie coding skills.  
-This project demonstrates working with movie data and basic Java application structure.
+A backend REST API built using **Spring Boot** and **MongoDB** for managing and serving movie data.  
+This project demonstrates API development, database integration, and clean backend architecture.
 
 ---
 
 ## 🧠 About
 
-MovieApp is a Java-based application that lets users interact with a curated list of movies stored in the repository (for example, in a `movies.json` file).
+MovieApp is a Spring Boot application where the **movie API is fully developed from scratch**.  
+It provides RESTful endpoints to perform operations on movie data stored in MongoDB.
 
-It is a great starting point for learning:
-- Data handling in Java
-- Basic project structure
-- File reading and parsing concepts
+This project was built to learn and practice:
+- REST API design
+- Spring Boot architecture
+- MongoDB integration
+- CRUD operations
+- Backend application structure
 
 ---
 
 ## 📦 Features
 
-- Java-based movie listing  
-- Reads movie details from a JSON file  
-- Simple and extensible structure  
-- Easy to customize for learning purposes  
-
-> You can expand this app later to fetch real movie data using public APIs like TMDB.
+- RESTful API built with Spring Boot  
+- CRUD operations on movie data  
+- MongoDB as the database  
+- JSON-based request and response handling  
+- Clean and modular project structure  
 
 ---
 
 ## Prerequisites
 
 Make sure you have:
-- Java JDK 8 or higher
-- A Java IDE such as IntelliJ IDEA or Eclipse
+- Java JDK 8 or higher  
+- Maven  
+- MongoDB (local or cloud)  
+- An IDE like IntelliJ IDEA or Eclipse  
+
